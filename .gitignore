@@ -18,4 +18,5 @@ buildNumber.properties
 .classpath
 
 .idea
-
+# Para archivos temporales generados por macOs
+.DS_Store
